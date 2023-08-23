@@ -1,0 +1,67 @@
+.div-logo {
+    height: 120px;
+    width: auto;
+    background-color: #1A4A65;
+    position: relative;
+}
+
+.logo {
+    height: 85px;
+    width: 240px;
+    display: inline-block;
+}
+
+.login-link {
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+    color: rgb(251, 253, 253);
+}
+
+.cadastro-link {
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+    color: rgb(251, 253, 253);
+}
+
+.tools {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+}
+
+.carrinho,
+.ferramenta {
+    margin-left: 10px;
+}
+
+
+.ferramenta-img {
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.perfil-img {
+    height: 60px;
+    width: 60px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.carrinho-img {
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.home-img {
+    margin-left: 20px;
+}
