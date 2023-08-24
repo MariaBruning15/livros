@@ -1,67 +1,84 @@
-.div-logo {
-    height: 120px;
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#menu2 {
+    background-color: #B1CCD4;
     width: auto;
-    background-color: #1A4A65;
-    position: relative;
-}
-
-.logo {
-    height: 85px;
-    width: 240px;
+    height: 410px;
+    padding: 20px;
     display: inline-block;
-}
-
-.login-link {
-    height: 30px;
-    width: 30px;
-    margin-top: 10px;
-    margin-right: 10px;
-    color: rgb(251, 253, 253);
-}
-
-.cadastro-link {
-    height: 30px;
-    width: 30px;
-    margin-top: 10px;
-    margin-right: 10px;
-    color: rgb(251, 253, 253);
-}
-
-.tools {
-    position: absolute;
-    top: 0;
-    right: 0;
     display: flex;
-    align-items: center;
+
 }
 
-.carrinho,
-.ferramenta {
-    margin-left: 10px;
+#menu2 * p {
+    color: #27305C;
+}
+
+#pp {
+    width: 50%;
+    height: 468px;
+    position: relative;
+    overflow: hidden;
+
+}
+
+#he {
+    width: 50%;
+    height: 468px;
+    position: relative;
+    overflow: hidden;
+
 }
 
 
-.ferramenta-img {
-    height: 30px;
-    width: 30px;
-    margin-top: 10px;
-    margin-right: 10px;
+#tpp {
+    color: #27305C;
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    vertical-align: top;
+
 }
 
-.perfil-img {
-    height: 60px;
-    width: 60px;
-    margin-top: 10px;
-    margin-right: 10px;
+#teh {
+
+    color: #27305C;
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    vertical-align: top;
+
 }
 
-.carrinho-img {
-    height: 40px;
-    width: 40px;
-    margin-top: 10px;
-    margin-right: 10px;
+#est {
+    width: 152px;
+    height: 53px;
+    vertical-align: top;
+    margin-left: 60px;
 }
 
-.home-img {
-    margin-left: 20px;
+#est2 {
+    width: 152px;
+    height: 53px;
+    vertical-align: top;
+    margin-left: 60px;
+
+}
+
+#app {
+    color: #3A7A8E;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+#aeh {
+    color: #3A7A8E;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 18px;
 }
