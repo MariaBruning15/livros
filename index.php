@@ -31,7 +31,7 @@
 
         </div>
         <div class="home">
-            <a href="index.php" class="home-link"> <img class="home-img" src="img/home.png"></a>
+            <a href="index.php" class="home-link"> <img class="home-img" src="./img/home.png"></a>
 
         </div>
 
