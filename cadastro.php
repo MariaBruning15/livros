@@ -27,6 +27,7 @@ setcookie("senha");
                 <input type="text" name="nome" placeholder="nome de usuário" class="texto"><br>
                 <input type="text" name="email" placeholder="email" class="texto"><br>
                 <input type="password" name="senha" placeholder="senha" class="texto"><br>
+                <input type="text" name="telefone" placeholder="telefone" class="texto"><br>
                 <input type="date" name="data" id="" class="texto"> <br> <br>
 
 
