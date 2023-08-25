@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $("#hide").click(function () {
-        $("p").hide();
+    $(".botao").click(function () {
+        $(".livro-novo").hide();
     });
 });
