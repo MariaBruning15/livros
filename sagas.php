@@ -9,10 +9,10 @@
 </head>
 
 <body>
-    <h1>Sagas</h1>
     <?php
     include("navbar.php");
     ?>
+    <h1>Sagas</h1>
 
     <div class="container">
         <a href="./sagas/pjo.php" class="button">Percy <br> Jackson</a>
