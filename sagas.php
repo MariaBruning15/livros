@@ -10,12 +10,15 @@
 
 <body>
     <h1>Sagas</h1>
+    <?php
+    include("navbar.php");
+    ?>
 
     <div class="container">
-            <a href="./sagas/pjo.php" class="button">Percy <br> Jackson</a>
-            <a href="./sagas/jogosvorazes.php" class="button">Jogos <br> Vorazes</a>
-            <a href="./sagas/senhoraneis.php" class="button">Senhor dos <br> Anéis</a>
-            <a href="./sagas/narnia.php" class="button">As Crônicas de <br>Nárnia</a>
+        <a href="./sagas/pjo.php" class="button">Percy <br> Jackson</a>
+        <a href="./sagas/jogosvorazes.php" class="button">Jogos <br> Vorazes</a>
+        <a href="./sagas/senhoraneis.php" class="button">Senhor dos <br> Anéis</a>
+        <a href="./sagas/narnia.php" class="button">As Crônicas de <br>Nárnia</a>
     </div>
 
 </body>
