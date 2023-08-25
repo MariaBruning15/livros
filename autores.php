@@ -9,6 +9,9 @@
 </head>
 
 <body>
+    <?php
+    include("navbar.php");
+    ?>
     <h1 class="title">Autores</h1>
 
     <div class="flex-container">
